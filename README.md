@@ -1,23 +1,51 @@
-#ERTH-4750  GIS in the Sciences, Spring 2008  
+# ERTH-4750  GIS in the Sciences, Spring 2008  
 Hours: 8am-9:50pm Tuesday, Friday  
 Location: 3W13 Science Center  
 Instructor: Steve Signell – signes@rpi.edu   
 Contact hours: by appointment  
 TA: Adrian Castro, castra3@rpi.edu   
   
-Week 1 (Jan. 16/Jan.19) Introduction to GIS, QGIS & Vector Data  
-Week 2 (Jan. 23/Jan. 26) Vector data I: creation, editing and cartography  
-Week 3 (Jan. 30/Feb. 2): Vector data III: geoprocessing  
-Week 4 (Feb 6/Feb. 9): Raster data I:  Concepts & georeferencing  
-Week 5 (Feb. 13/Feb. 16): Raster data II: Terrain and hydrologic Modeling  
-Week 6 (Feb. 23): Raster data III: Interpolation  
-Week 7 (Feb. 27/Mar. 2): Raster data IV: Geostatistics & remote sensing  
-Week 8 (Mar. 6/Mar. 9): GIS synthesis & review  
-Week 9 (Mar. 13/Mar. 16): no classes - spring break  
-Week 10 (Mar. 20/Mar. 23): GPS: concepts & mobile data collection  
-Week 11 (Mar 27/Mar. 30) Web mapping I: concepts & web resources  
-Week 12 (Apr. 3/Apr. 6) Web mapping II: Leaflet.js, Bootleaf  
-Week 13 (Apr. 10/Apr. 13) Group & individual project development  
-Week 14 (Apr. 17/Apr.20) Group presentations & field trip to Kitware     
-Week 15 (Apr. 24/Apr.27) Advanced topics & individual project time     
-Week 15 (May 1)  Individual project presentations
+## Week 1 
+### Jan. 16: Course Introduction
+### Jan.19:  Projections & Vector Data I:Introduction  
+## Week 2
+### Jan. 23: Vector Data II: data acquisition, creation and editing.
+### Jan. 26: Vector Data III: Styling, symbology and cartraphy.
+## Week 3 
+### Jan. 30: Vector Data IV: Geoprocessiong I
+### Feb. 2: Vector Data V: Geoprocessing II
+## Week 4 
+### Feb 6: Exam: Vector Data / Raster data I: Raster Concepts
+### Feb. 9: Raster Data II:  Georeferencing  
+## Week 5 
+### Feb. 13: Raster Data III: Terrain Modeling
+### Feb. 16: Raster Data IV: Hydrologic Modeling  
+## Week 6 
+### Feb. 23: Raster Data V: Interpolation  
+## Week 7 
+### Feb. 27: Raster Data VI: Geostatistics
+### Mar. 2: Raster data VII: Remote sensing  
+## Week 8
+### Mar. 6: GIS synthesis & review 
+### Mar. 9: Exam: Vector & Rasters / Group/Individual Project Workshop
+## Week 9 (Mar. 13/Mar. 16): no classes - spring break  
+## Week 10
+### Mar. 20: GPS concepts 
+### Mar. 23: Field Trip: mobile data collection  
+## Week 11
+### Mar 27: Web mapping I: concepts & web resources
+### Mar. 30: Web mapping II: Carto    
+## Week 12 
+### Apr. 3: Web mapping III: Leaflet.js
+### Apr. 6: Web mapping II: Leaflet.js, Bootleaf  
+## Week 13
+### Apr. 10: Advanced Topics / Group project development
+### Apr. 13: Advanced Topics / Individual project development  
+## Week 14 
+### Apr. 17: Group Presentations
+### Apr.20: 3D Visualization: Field trip to Kitware     
+## Week 15
+### Apr. 24: Advanced Topics
+### Apr.27: Exam: Web Mapping & Advanced Topics / Individual project time     
+## Week 15
+### May 1: Individual project presentations
