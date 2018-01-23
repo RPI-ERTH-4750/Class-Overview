@@ -12,7 +12,7 @@ TA: Adrian Castro, castra3@rpi.edu
 ### Jan. 23: Vector Data II: data acquisition, creation and editing.
 ### Jan. 26: Vector Data III: Styling, symbology and cartraphy.
 ## Week 3 
-### Jan. 30: Vector Data IV: Geoprocessiong I
+### Jan. 30: Vector Data IV: Geoprocessing I
 ### Feb. 2: Vector Data V: Geoprocessing II
 ## Week 4 
 ### Feb 6: Exam: Vector Data / Raster data I: Raster Concepts
