@@ -16,7 +16,7 @@ TA: Adrian Castro, castra3@rpi.edu
 ### Feb. 2: Vector Data V: Geoprocessing II
 ## Week 4 
 ### Feb 6: Exam: Vector Data / Raster data I: Raster Concepts
-### Feb. 9: Raster Data II:  Georeferencing  
+### Feb. 9: Raster Data II:  Concepts II/Georeferencing  
 ## Week 5 
 ### Feb. 13: Raster Data III: Terrain Modeling
 ### Feb. 16: Raster Data IV: Hydrologic Modeling  
