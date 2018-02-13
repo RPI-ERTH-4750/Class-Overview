@@ -18,12 +18,12 @@ TA: Adrian Castro, castra3@rpi.edu
 ### Feb 6: Exam: Vector Data / Raster data I: Raster Concepts
 ### Feb. 9: Raster Data II:  Concepts II/Georeferencing  
 ## Week 5 
-### Feb. 13: Raster Data III: Terrain Modeling
-### Feb. 16: Raster Data IV: Hydrologic Modeling  
+### Feb. 13: Raster Data III: Raster Algebra
+### Feb. 16: Raster Data IV: Terrain Modeling  
 ## Week 6 
-### Feb. 23: Raster Data V: Interpolation  
+### Feb. 23: Raster Data V: Interpolation & Geostatistics
 ## Week 7 
-### Feb. 27: Raster Data VI: Geostatistics
+### Feb. 27: Raster Data VI: Landscape (Patch) Analysis
 ### Mar. 2: Raster data VII: Remote sensing  
 ## Week 8
 ### Mar. 6: GIS synthesis & review 
