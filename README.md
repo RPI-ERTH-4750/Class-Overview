@@ -33,17 +33,17 @@ TA: Adrian Castro, castra3@rpi.edu
 ### Mar. 20: GPS concepts 
 ### Mar. 23: Field Trip: mobile data collection  
 ## Week 11
-### Mar 27: Web mapping I: concepts & web resources
+### Mar. 27: Web mapping I: concepts & web resources
 ### Mar. 30: Web mapping II: Carto    
 ## Week 12 
 ### Apr. 3: Web mapping III: Leaflet.js
-### Apr. 6: Web mapping II: Leaflet.js, Bootleaf  
+### Apr. 6: Web mapping IV: Leaflet.js, Bootleaf  
 ## Week 13
 ### Apr. 10: Advanced Topics / Group project development
 ### Apr. 13: Advanced Topics / Individual project development  
 ## Week 14 
 ### Apr. 17: Group Presentations
-### Apr.20: 3D Visualization: Field trip to Kitware     
+### Apr.20: 3D Visualization: Field trip to Kitware (?) 
 ## Week 15
 ### Apr. 24: Advanced Topics
 ### Apr.27: Exam: Web Mapping & Advanced Topics / Individual project time     
