@@ -34,18 +34,18 @@ TA: Adrian Castro, castra3@rpi.edu
 ### Mar. 23: Field Trip: mobile data collection  
 ## Week 11
 ### Mar. 27: Group Project Workshop 
-### Mar. 30: Intro to Web GIS / Web Mapping with SQL and Carto    
+### Mar. 30: Intro to Web Mapping
 ## Week 12 
-### Apr. 3: Web Map Services / Group Project Workshop
+### Apr. 3: Spatial SQL / Group Project Time
 ### Apr. 6: Guest Lecture: Adrian Castro  
 ## Week 13
-### Apr. 10: Advanced Topics / Group project development
+### Apr. 10: Advanced Web Mapping / Group Project Time
 ### Apr. 13: Group Presentations 
 ## Week 14 
 ### Apr. 17: Advanced Topics / Individual project development 
-### Apr.20:  Advanced Topics / Individual project development  
+### Apr. 20:  Advanced Topics / Individual project development  
 ## Week 15
 ### Apr. 24: Advanced Topics
-### Apr.27: Exam: Web Mapping & Advanced Topics / Individual project time     
+### Apr. 27: Exam: Web Mapping & Advanced Topics / Individual project time     
 ## Week 15
 ### May 1: Individual project presentations
