@@ -15,10 +15,10 @@ TA: Adrian Castro, castra3@rpi.edu
 ### Jan. 30: Vector Data IV: Geoprocessing I
 ### Feb. 2: Vector Data V: Geoprocessing II
 ## Week 4 
-### Feb 6: Exam: Vector Data / Raster data I: Raster Concepts
+### Feb 6: Exam: Vector Data / Raster data I: Intro to Rasters  
 ### Feb. 9: Raster Data II:  Concepts II/Georeferencing  
 ## Week 5 
-### Feb. 13: Raster Data III: Raster Algebra
+### Feb. 13: Raster Data III: Raster Algebra 
 ### Feb. 16: Raster Data IV: Terrain Modeling  
 ## Week 6 
 ### Feb. 23: Raster Data V: Interpolation & Geostatistics
@@ -36,10 +36,10 @@ TA: Adrian Castro, castra3@rpi.edu
 ### Mar. 27: Group Project Workshop 
 ### Mar. 30: Intro to Web Mapping
 ## Week 12 
-### Apr. 3: Spatial SQL / Group Project Time
+### Apr. 3: Spatial SQL 
 ### Apr. 6: Guest Lecture: Adrian Castro  
 ## Week 13
-### Apr. 10: Advanced Web Mapping / Group Project Time
+### Apr. 10: Advanced SQL / Group Project Workshop    
 ### Apr. 13: Group Presentations 
 ## Week 14 
 ### Apr. 17: Advanced Topics / Individual project development 
