@@ -45,7 +45,7 @@ TA: Adrian Castro, castra3@rpi.edu
 ### Apr. 17: Advanced SQL / Individual project development 
 ### Apr. 20:  Web Mapping II / Individual project development  
 ## Week 15
-### Apr. 24: Data integration
+### Apr. 24: GIS Synthesis
 ### Apr. 27: Exam: Web Mapping & SQL / Individual project time     
 ## Week 15
 ### May 1: Individual project presentations
