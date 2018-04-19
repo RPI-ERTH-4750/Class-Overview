@@ -39,13 +39,13 @@ TA: Adrian Castro, castra3@rpi.edu
 ### Apr. 3: Spatial SQL 
 ### Apr. 6: Guest Lecture: Adrian Castro  
 ## Week 13
-### Apr. 10: Advanced SQL / Group Project Workshop    
+### Apr. 10: Group Project Workshop    
 ### Apr. 13: Group Presentations 
 ## Week 14 
-### Apr. 17: Advanced Topics / Individual project development 
-### Apr. 20:  Advanced Topics / Individual project development  
+### Apr. 17: Advanced SQL / Individual project development 
+### Apr. 20:  Web Mapping II / Individual project development  
 ## Week 15
-### Apr. 24: Advanced Topics
-### Apr. 27: Exam: Web Mapping & Advanced Topics / Individual project time     
+### Apr. 24: Data integration
+### Apr. 27: Exam: Web Mapping & SQL / Individual project time     
 ## Week 15
 ### May 1: Individual project presentations
